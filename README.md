@@ -1,18 +1,6 @@
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=BENSUN&fontSize=64&fontAlignY=36&desc=&descAlignY=60&animation=fadeIn&fontColor=7df9ff&descSize=18&color=0:020b12,25:06202e,50:0a3a52,75:0f5d7a,100:12a4d9" />
-</p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2200&pause=700&color=7DF9FF&center=true&vCenter=true&width=1100&lines=...;INITIALIZING+AI+HUD...;AI%2FML+ENTHUSIAST+%7C+PYTHON+DEVELOPER;BUILDING+REAL-WORLD+INTELLIGENT+SYSTEMS;STATUS%3A+MISSION+ACTIVE." />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=bensun&fontSize=62&fontAlignY=38&desc=&descAlignY=60&animation=fadeIn&fontColor=ff4d4d&color=0:050505,50:2b0b0b,100:8b0000" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HUD-ONLINE-06131b?style=for-the-badge&logo=dependabot&logoColor=7df9ff" />
-  <img src="https://img.shields.io/badge/MODE-JARVIS-06131b?style=for-the-badge&logo=ghost&logoColor=55e6ff" />
-  <img src="https://img.shields.io/badge/CORE-AI%20%2B%20ML-06131b?style=for-the-badge&logo=openai&logoColor=12cfff" />
-  <img src="https://img.shields.io/badge/STATUS-MISSION%20ACTIVE-06131b?style=for-the-badge&logo=github&logoColor=b7f7ff" />
-</p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=800&color=FF4D4D&center=true&vCenter=true&width=900&lines=AI%20%2F%20ML%20Enthusiast;Deep%20Learning%20Explorer;Python%20Developer;Building%20Smart%20AI%20Systems" />
