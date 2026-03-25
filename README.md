@@ -130,3 +130,13 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bensun23/bensun23/output/snake.svg" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:03045e,50:023e8a,100:00b4d8" />
+</p>
