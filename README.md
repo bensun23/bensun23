@@ -11,7 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Theme-Dark%20Red%20Metallic-160909?style=for-the-badge&logo=ghost&logoColor=ff6b6b" />
   <img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-160909?style=for-the-badge&logo=github&logoColor=ff8787" />
   <img src="https://img.shields.io/badge/Focus-AI%20%2B%20ML-160909?style=for-the-badge&logo=openai&logoColor=ff4d4d" />
 </p>
